@@ -1,0 +1,152 @@
+[
+    {
+        "Brand": "FORD",
+        "PRODUCT_NAME" : "Escape",
+        "GRAPHIC_NAME": "Ford Logo",
+        "COST_PRICE": "",
+        "MSRP": "",
+        "QTY_HAND": "",
+        "QTY_BACKORDER": "",
+        "DESCRIPTION": ""
+    },
+    {
+        "Brand": "FORD",
+        "PRODUCT_NAME" : "F-150",
+        "GRAPHIC_NAME": "Ford Logo",
+        "COST_PRICE": "",
+        "MSRP": "",
+        "QTY_HAND": "",
+        "QTY_BACKORDER": "",
+        "DESCRIPTION": ""
+    },
+    {
+        "Brand": "FORD",
+        "PRODUCT_NAME" : "Mustang",
+        "GRAPHIC_NAME": "Mustang Logo",
+        "COST_PRICE": "",
+        "MSRP": "",
+        "QTY_HAND": "",
+        "QTY_BACKORDER": "",
+        "DESCRIPTION": ""
+    },
+    {
+        "Brand": "FORD",
+        "PRODUCT_NAME" : "Focus",
+        "GRAPHIC_NAME": "Ford Logo",
+        "COST_PRICE": "",
+        "MSRP": "",
+        "QTY_HAND": "",
+        "QTY_BACKORDER": "",
+        "DESCRIPTION": ""
+    },
+    {
+        "Brand": "FORD",
+        "PRODUCT_NAME" : "Edge",
+        "GRAPHIC_NAME": "Ford Logo",
+        "COST_PRICE": "",
+        "MSRP": "",
+        "QTY_HAND": "",
+        "QTY_BACKORDER": "",
+        "DESCRIPTION": ""
+    },
+    {
+        "Brand": "HYUNDAI",
+        "PRODUCT_NAME" : "Santa Fe",
+        "GRAPHIC_NAME": "Hyundai Logo",
+        "COST_PRICE": "",
+        "MSRP": "",
+        "QTY_HAND": "",
+        "QTY_BACKORDER": "",
+        "DESCRIPTION": ""
+    },
+    {
+        "Brand": "HYUNDAI",
+        "PRODUCT_NAME" : "Santro",
+        "GRAPHIC_NAME": "Hyundai Logo",
+        "COST_PRICE": "",
+        "MSRP": "",
+        "QTY_HAND": "",
+        "QTY_BACKORDER": "",
+        "DESCRIPTION": ""
+    },
+    {
+        "Brand": "HYUNDAI",
+        "PRODUCT_NAME" : "Aura",
+        "GRAPHIC_NAME": "Hyundai Logo",
+        "COST_PRICE": "",
+        "MSRP": "",
+        "QTY_HAND": "",
+        "QTY_BACKORDER": "",
+        "DESCRIPTION": ""
+    },
+    {
+        "Brand": "HYUNDAI",
+        "PRODUCT_NAME" : "Tucson",
+        "GRAPHIC_NAME": "Hyundai Logo",
+        "COST_PRICE": "",
+        "MSRP": "",
+        "QTY_HAND": "",
+        "QTY_BACKORDER": "",
+        "DESCRIPTION": ""
+    },
+    {
+        "Brand": "HYUNDAI",
+        "PRODUCT_NAME" : "Xcent",
+        "GRAPHIC_NAME": "Hyundai Logo",
+        "COST_PRICE": "",
+        "MSRP": "",
+        "QTY_HAND": "",
+        "QTY_BACKORDER": "",
+        "DESCRIPTION": ""
+    },
+    {
+        "Brand": "HONDA",
+        "PRODUCT_NAME" : "Civic",
+        "GRAPHIC_NAME": "Honda Logo",
+        "COST_PRICE": "",
+        "MSRP": "",
+        "QTY_HAND": "",
+        "QTY_BACKORDER": "",
+        "DESCRIPTION": ""
+    },
+    {
+        "Brand": "HONDA",
+        "PRODUCT_NAME" : "CRV",
+        "GRAPHIC_NAME": "Honda Logo",
+        "COST_PRICE": "",
+        "MSRP": "",
+        "QTY_HAND": "",
+        "QTY_BACKORDER": "",
+        "DESCRIPTION": ""
+    },
+    {
+        "Brand": "HONDA",
+        "PRODUCT_NAME" : "HRV",
+        "GRAPHIC_NAME": "Honda Logo",
+        "COST_PRICE": "",
+        "MSRP": "",
+        "QTY_HAND": "",
+        "QTY_BACKORDER": "",
+        "DESCRIPTION": ""
+    },
+    {
+        "Brand": "HONDA",
+        "PRODUCT_NAME" : "Accord",
+        "GRAPHIC_NAME": "Honda Logo",
+        "COST_PRICE": "",
+        "MSRP": "",
+        "QTY_HAND": "",
+        "QTY_BACKORDER": "",
+        "DESCRIPTION": ""
+    },
+    {
+        "Brand": "HONDA",
+        "PRODUCT_NAME" : "Brio",
+        "GRAPHIC_NAME": "Honda Logo",
+        "COST_PRICE": "",
+        "MSRP": "",
+        "QTY_HAND": "",
+        "QTY_BACKORDER": "",
+        "DESCRIPTION": ""
+    }
+]

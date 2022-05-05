@@ -1,6 +1,6 @@
 [
     {
-        "Brand": "FORD",
+        "BRAND": "FORD",
         "PRODUCT_NAME" : "Escape",
         "GRAPHIC_NAME": "Ford Logo",
         "COST_PRICE": 32250.99,
@@ -10,7 +10,7 @@
         "DESCRIPTION": "Big SUV with a lot of power. Has great handling and is a great car for the money."
     },
     {
-        "Brand": "FORD",
+        "BRAND": "FORD",
         "PRODUCT_NAME" : "F-150",
         "GRAPHIC_NAME": "Ford Logo",
         "COST_PRICE": 40000.99,
@@ -20,7 +20,7 @@
         "DESCRIPTION": "Best pickup truck in the world. Has fantastic power and is large carrying capacity."
     },
     {
-        "Brand": "FORD",
+        "BRAND": "FORD",
         "PRODUCT_NAME" : "Mustang",
         "GRAPHIC_NAME": "Mustang Logo",
         "COST_PRICE": 21035.99,
@@ -30,7 +30,7 @@
         "DESCRIPTION": "Fast and Furious mustang. A classic dream car to fullfill the american dream."
     },
     {
-        "Brand": "FORD",
+        "BRAND": "FORD",
         "PRODUCT_NAME" : "Focus",
         "GRAPHIC_NAME": "Ford Logo",
         "COST_PRICE": 12000.21,
@@ -40,7 +40,7 @@
         "DESCRIPTION": "Suburban ford. Fantastic for the price. Great for the family."
     },
     {
-        "Brand": "FORD",
+        "BRAND": "FORD",
         "PRODUCT_NAME" : "Edge",
         "GRAPHIC_NAME": "Ford Logo",
         "COST_PRICE": 25345.02,
@@ -50,7 +50,7 @@
         "DESCRIPTION": "Smaller SUV with a lot of power. Has great handling and is a great car overall."
     },
     {
-        "Brand": "HYUNDAI",
+        "BRAND": "HYUNDAI",
         "PRODUCT_NAME" : "Santa Fe Sport",
         "GRAPHIC_NAME": "Hyundai Logo",
         "COST_PRICE": 29333.50,
@@ -60,7 +60,7 @@
         "DESCRIPTION": "A company favorite. A great car for most needs. Great acceleration and carry capacity."
     },
     {
-        "Brand": "HYUNDAI",
+        "BRAND": "HYUNDAI",
         "PRODUCT_NAME" : "Santro",
         "GRAPHIC_NAME": "Hyundai Logo",
         "COST_PRICE": 25342.00,
@@ -70,7 +70,7 @@
         "DESCRIPTION": "Best starter car to get. Great for all shapes and sizes."
     },
     {
-        "Brand": "HYUNDAI",
+        "BRAND": "HYUNDAI",
         "PRODUCT_NAME" : "Aura",
         "GRAPHIC_NAME": "Hyundai Logo",
         "COST_PRICE": 22222.00,
@@ -80,7 +80,7 @@
         "DESCRIPTION": "Sizeable hatchback. Generous mileage and great for road trips."
     },
     {
-        "Brand": "HYUNDAI",
+        "BRAND": "HYUNDAI",
         "PRODUCT_NAME" : "Tucson",
         "GRAPHIC_NAME": "Hyundai Logo",
         "COST_PRICE": 25000.00,
@@ -90,7 +90,7 @@
         "DESCRIPTION": "Great sport utility vehicle. Long range and \"batteries included\"."
     },
     {
-        "Brand": "HYUNDAI",
+        "BRAND": "HYUNDAI",
         "PRODUCT_NAME" : "Xcent",
         "GRAPHIC_NAME": "Hyundai Logo",
         "COST_PRICE": 25001.00,
@@ -100,7 +100,7 @@
         "DESCRIPTION": "Small sedan for all city needs. Great for the price."
     },
     {
-        "Brand": "HONDA",
+        "BRAND": "HONDA",
         "PRODUCT_NAME" : "Civic",
         "GRAPHIC_NAME": "Honda Logo",
         "COST_PRICE": 20000.00,
@@ -110,7 +110,7 @@
         "DESCRIPTION": "Rated one of the most fual efficient cars in the world. Great in the city."
     },
     {
-        "Brand": "HONDA",
+        "BRAND": "HONDA",
         "PRODUCT_NAME" : "CRV",
         "GRAPHIC_NAME": "Honda Logo",
         "COST_PRICE": 25999.99,
@@ -120,7 +120,7 @@
         "DESCRIPTION": "Top rated sport utility vehicle. Fantastic fuel effeciency."
     },
     {
-        "Brand": "HONDA",
+        "BRAND": "HONDA",
         "PRODUCT_NAME" : "HRV",
         "GRAPHIC_NAME": "Honda Logo",
         "COST_PRICE": 22000.00,
@@ -130,7 +130,7 @@
         "DESCRIPTION": "A little small that the Honda CRV. Great form factor and still spacious."
     },
     {
-        "Brand": "HONDA",
+        "BRAND": "HONDA",
         "PRODUCT_NAME" : "Accord",
         "GRAPHIC_NAME": "Honda Logo",
         "COST_PRICE": 21010.21,
@@ -140,7 +140,7 @@
         "DESCRIPTION": "Greatly reliable car. Great for the price. Similar to the Honda civic."
     },
     {
-        "Brand": "HONDA",
+        "BRAND": "HONDA",
         "PRODUCT_NAME" : "Brio",
         "GRAPHIC_NAME": "Honda Logo",
         "COST_PRICE": 30111.00,

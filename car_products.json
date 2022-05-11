@@ -72,7 +72,7 @@
     {
         "BRAND": "HYUNDAI",
         "PRODUCT_NAME" : "Aura",
-        "GRAPHIC_NAME": "Hyundai_Model",
+        "GRAPHIC_NAME": "Aura_Model",
         "COST_PRICE": 22222.00,
         "MSRP": 33333.00,
         "QTY_HAND": 3,

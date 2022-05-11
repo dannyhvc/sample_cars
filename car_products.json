@@ -2,7 +2,7 @@
     {
         "BRAND": "FORD",
         "PRODUCT_NAME" : "Escape",
-        "GRAPHIC_NAME": "Escape_Model",
+        "GRAPHIC_NAME": "Escape_Model.png",
         "COST_PRICE": 32250.99,
         "MSRP": 40000.99,
         "QTY_HAND": 10,
@@ -12,7 +12,7 @@
     {
         "BRAND": "FORD",
         "PRODUCT_NAME" : "F-150",
-        "GRAPHIC_NAME": "F150_Model",
+        "GRAPHIC_NAME": "F150_Model.png",
         "COST_PRICE": 40000.99,
         "MSRP": 500000.99,
         "QTY_HAND": 5,
@@ -22,7 +22,7 @@
     {
         "BRAND": "FORD",
         "PRODUCT_NAME" : "Mustang",
-        "GRAPHIC_NAME": "Mustang_Model",
+        "GRAPHIC_NAME": "Mustang_Model.png",
         "COST_PRICE": 21035.99,
         "MSRP": 70125.53,
         "QTY_HAND": 3,
@@ -32,7 +32,7 @@
     {
         "BRAND": "FORD",
         "PRODUCT_NAME" : "Focus",
-        "GRAPHIC_NAME": "Focus_Model",
+        "GRAPHIC_NAME": "Focus_Model.png",
         "COST_PRICE": 12000.21,
         "MSRP": 21000.99,
         "QTY_HAND": 15,
@@ -42,7 +42,7 @@
     {
         "BRAND": "FORD",
         "PRODUCT_NAME" : "Edge",
-        "GRAPHIC_NAME": "Edge_Model",
+        "GRAPHIC_NAME": "Edge_Model.png",
         "COST_PRICE": 25345.02,
         "MSRP": 35000.99,
         "QTY_HAND": 7,
@@ -52,7 +52,7 @@
     {
         "BRAND": "HYUNDAI",
         "PRODUCT_NAME" : "Santa Fe Sport",
-        "GRAPHIC_NAME": "SantaFe_Model",
+        "GRAPHIC_NAME": "SantaFe_Model.png",
         "COST_PRICE": 29333.50,
         "MSRP": 300000.00,
         "QTY_HAND": 12,
@@ -62,7 +62,7 @@
     {
         "BRAND": "HYUNDAI",
         "PRODUCT_NAME" : "Santro",
-        "GRAPHIC_NAME": "Santro_Model",
+        "GRAPHIC_NAME": "Santro_Model.png",
         "COST_PRICE": 25342.00,
         "MSRP": 25342.00,
         "QTY_HAND": 5,
@@ -72,7 +72,7 @@
     {
         "BRAND": "HYUNDAI",
         "PRODUCT_NAME" : "Aura",
-        "GRAPHIC_NAME": "Aura_Model",
+        "GRAPHIC_NAME": "Aura_Model.png",
         "COST_PRICE": 22222.00,
         "MSRP": 33333.00,
         "QTY_HAND": 3,
@@ -82,7 +82,7 @@
     {
         "BRAND": "HYUNDAI",
         "PRODUCT_NAME" : "Tucson",
-        "GRAPHIC_NAME": "Tucson_Model",
+        "GRAPHIC_NAME": "Tucson_Model.png",
         "COST_PRICE": 25000.00,
         "MSRP": 300000.00,
         "QTY_HAND": 10,
@@ -92,7 +92,7 @@
     {
         "BRAND": "HYUNDAI",
         "PRODUCT_NAME" : "Xcent",
-        "GRAPHIC_NAME": "Xcent_Model",
+        "GRAPHIC_NAME": "Xcent_Model.png",
         "COST_PRICE": 25001.00,
         "MSRP": 35001.00,
         "QTY_HAND": 5,
@@ -102,7 +102,7 @@
     {
         "BRAND": "HONDA",
         "PRODUCT_NAME" : "Civic",
-        "GRAPHIC_NAME": "Civic_Model",
+        "GRAPHIC_NAME": "Civic_Model.png",
         "COST_PRICE": 20000.00,
         "MSRP": 25000.00,
         "QTY_HAND": 20,
@@ -112,7 +112,7 @@
     {
         "BRAND": "HONDA",
         "PRODUCT_NAME" : "CRV",
-        "GRAPHIC_NAME": "CRV_Model",
+        "GRAPHIC_NAME": "CRV_Model.png",
         "COST_PRICE": 25999.99,
         "MSRP": 26000.00,
         "QTY_HAND": 15,
@@ -122,7 +122,7 @@
     {
         "BRAND": "HONDA",
         "PRODUCT_NAME" : "HRV",
-        "GRAPHIC_NAME": "HRV_Model",
+        "GRAPHIC_NAME": "HRV_Model.png",
         "COST_PRICE": 22000.00,
         "MSRP": 23000.00,
         "QTY_HAND": 7,
@@ -132,7 +132,7 @@
     {
         "BRAND": "HONDA",
         "PRODUCT_NAME" : "Accord",
-        "GRAPHIC_NAME": "Accord_Model",
+        "GRAPHIC_NAME": "Accord_Model.png",
         "COST_PRICE": 21010.21,
         "MSRP": 25050.52,
         "QTY_HAND": 10,
@@ -142,7 +142,7 @@
     {
         "BRAND": "HONDA",
         "PRODUCT_NAME" : "Brio",
-        "GRAPHIC_NAME": "Brio_Model",
+        "GRAPHIC_NAME": "Brio_Model.png",
         "COST_PRICE": 30111.00,
         "MSRP": 32000.00,
         "QTY_HAND": 4,

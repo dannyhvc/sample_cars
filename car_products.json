@@ -84,7 +84,7 @@
         "PRODUCT_NAME" : "Tucson",
         "GRAPHIC_NAME": "Tucson_Model.png",
         "COST_PRICE": 25000.00,
-        "MSRP": 300000.00,
+        "MSRP": 30000.00,
         "QTY_HAND": 10,
         "QTY_BACKORDER": 1,
         "DESCRIPTION": "Great sport utility vehicle. Long range and \"batteries included\"."

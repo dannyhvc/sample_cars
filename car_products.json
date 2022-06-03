@@ -46,7 +46,7 @@
         "COST_PRICE": 25345.02,
         "MSRP": 35000.99,
         "QTY_HAND": 0,
-        "QTY_BACKORDER": 5,
+        "QTY_BACKORDER": 0,
         "DESCRIPTION": "Smaller SUV with a lot of power. Has great handling and is a great car overall."
     },
     {
@@ -56,7 +56,7 @@
         "COST_PRICE": 29333.50,
         "MSRP": 30000.00,
         "QTY_HAND": 12,
-        "QTY_BACKORDER": 1,
+        "QTY_BACKORDER": 0,
         "DESCRIPTION": "A company favorite. A great car for most needs. Great acceleration and carry capacity."
     },
     {
@@ -76,7 +76,7 @@
         "COST_PRICE": 22222.00,
         "MSRP": 33333.00,
         "QTY_HAND": 3,
-        "QTY_BACKORDER": 1,
+        "QTY_BACKORDER": 0,
         "DESCRIPTION": "Sizeable hatchback. Generous mileage and great for road trips."
     },
     {
@@ -86,7 +86,7 @@
         "COST_PRICE": 25000.00,
         "MSRP": 30000.00,
         "QTY_HAND": 10,
-        "QTY_BACKORDER": 1,
+        "QTY_BACKORDER": 0,
         "DESCRIPTION": "Great sport utility vehicle. Long range and \"batteries included\"."
     },
     {
@@ -96,7 +96,7 @@
         "COST_PRICE": 25001.00,
         "MSRP": 35001.00,
         "QTY_HAND": 5,
-        "QTY_BACKORDER": 5,
+        "QTY_BACKORDER": 0,
         "DESCRIPTION": "Small sedan for all city needs. Great for the price."
     },
     {
@@ -106,7 +106,7 @@
         "COST_PRICE": 20000.00,
         "MSRP": 25000.00,
         "QTY_HAND": 20,
-        "QTY_BACKORDER": 5,
+        "QTY_BACKORDER": 0,
         "DESCRIPTION": "Rated one of the most fual efficient cars in the world. Great in the city."
     },
     {
@@ -116,7 +116,7 @@
         "COST_PRICE": 25999.99,
         "MSRP": 26000.00,
         "QTY_HAND": 15,
-        "QTY_BACKORDER": 13,
+        "QTY_BACKORDER": 0,
         "DESCRIPTION": "Top rated sport utility vehicle. Fantastic fuel effeciency."
     },
     {
@@ -146,7 +146,7 @@
         "COST_PRICE": 30111.00,
         "MSRP": 32000.00,
         "QTY_HAND": 4,
-        "QTY_BACKORDER": 1,
+        "QTY_BACKORDER": 0,
         "DESCRIPTION": "Small hatchback. Quick acceleration and comes as a hybrid for maximal fuel savings."
     }
 ]

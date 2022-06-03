@@ -16,7 +16,7 @@
         "COST_PRICE": 40000.99,
         "MSRP": 500000.99,
         "QTY_HAND": 5,
-        "QTY_BACKORDER": 1,
+        "QTY_BACKORDER": 0,
         "DESCRIPTION": "Best pickup truck in the world. Has fantastic power and is large carrying capacity."
     },
     {
@@ -26,7 +26,7 @@
         "COST_PRICE": 21035.99,
         "MSRP": 70125.53,
         "QTY_HAND": 3,
-        "QTY_BACKORDER": 3,
+        "QTY_BACKORDER": 0,
         "DESCRIPTION": "Fast and Furious mustang. A classic dream car to fullfill the american dream."
     },
     {
@@ -45,7 +45,7 @@
         "GRAPHIC_NAME": "Edge_Model.png",
         "COST_PRICE": 25345.02,
         "MSRP": 35000.99,
-        "QTY_HAND": 7,
+        "QTY_HAND": 0,
         "QTY_BACKORDER": 5,
         "DESCRIPTION": "Smaller SUV with a lot of power. Has great handling and is a great car overall."
     },
